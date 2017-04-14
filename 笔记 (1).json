@@ -1,0 +1,49 @@
+{
+    "objects": [
+        {
+            "收藏人数": "0", 
+            "用户": "liuyc", 
+            "标题": "python 正则表达式", 
+            "点击数": "18", 
+            "笔记描述": "使用记录", 
+            "笔记内容": "&lt;p&gt;1. ma = re.match(&amp;#39;.*(\\d+)&amp;#39; , &amp;quot;asdf223&amp;quot;) ma.g&lt;img src=&quot;http://img.baidu.com/hi/jx2/j_0011.gif&quot;/&gt;&lt;/p&gt;", 
+            "添加时间": "2017年4月6日 15:13"
+        }, 
+        {
+            "收藏人数": "0", 
+            "用户": "liuyc", 
+            "标题": "老王，肠胃炎", 
+            "点击数": "9", 
+            "笔记描述": "老王", 
+            "笔记内容": "&lt;p&gt;我只想说干什么，别得病。医院真的很坑爹，什么都得化验，B超。等这些做完了，老王已经疼得没有知觉了&lt;img src=&quot;http://img.baidu.com/hi/jx2/j_0016.gif&quot;/&gt;&lt;/p&gt;", 
+            "添加时间": "2017年3月19日 10:54"
+        }, 
+        {
+            "收藏人数": "0", 
+            "用户": "liuyc", 
+            "标题": "我怕来不及", 
+            "点击数": "4", 
+            "笔记描述": "原来是一个梦", 
+            "笔记内容": "&lt;p&gt;&lt;img src=&quot;http://img.baidu.com/hi/jx2/j_0016.gif&quot;/&gt;今天早上我只知道自己是哭着醒来的，梦中自己已经和蕾分手好多年了，然后不知怎么又再次相遇，梦到我的老丈人杀了人进了监狱，梦到蕾去厂子里去上班了，梦到自己和蕾又去了那个熟悉的水果摊和菜市场。梦到自己在水果摊旁回想起当年的往事哭的好伤心⊙﹏⊙&lt;/p&gt;", 
+            "添加时间": "2017年3月19日 10:29"
+        }, 
+        {
+            "收藏人数": "0", 
+            "用户": "liuyc", 
+            "标题": "老婆 爱吃的食物", 
+            "点击数": "3", 
+            "笔记描述": "第一篇 笔记", 
+            "笔记内容": "&lt;p&gt;鸡翅，赣南甜橙，抹茶，各种肉，鱿鱼。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://img.baidu.com/hi/jx2/j_0028.gif&quot;/&gt; &lt;/p&gt;", 
+            "添加时间": "2017年2月27日 09:17"
+        }, 
+        {
+            "收藏人数": "0", 
+            "用户": "liuyc", 
+            "标题": "雷·阿伦", 
+            "点击数": "22", 
+            "笔记描述": "雷·阿伦", 
+            "笔记内容": "&lt;h3 class=&quot;title-text&quot; style=&quot;margin: 0px; padding: 0px; font-size: 18px; font-weight: 400;&quot;&gt;童年经历&lt;/h3&gt;&lt;p&gt;&lt;a class=&quot;image-link&quot; nslog-type=&quot;9317&quot; href=&quot;http://baike.baidu.com/pic/%E9%9B%B7%C2%B7%E9%98%BF%E4%BC%A6/394332/0/0e2442a7d933c895e29a1915d21373f0830200f3?fr=lemma&amp;ct=single&quot; target=&quot;_blank&quot; title=&quot;雷·阿伦&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none; display: block; width: 151px; height: 220px;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://imgsa.baidu.com/baike/s%3D220/sign=a6136596a486c9170c03553bf93c70c6/0e2442a7d933c895e29a1915d21373f0830200f3.jpg&quot; alt=&quot;雷·阿伦&quot; style=&quot;border: 0px; display: block; margin: 0px auto; width: 151px; height: 220px;&quot;/&gt; &lt;/a&gt;&lt;span class=&quot;description&quot; style=&quot;display: block; color: rgb(85, 85, 85); font-size: 12px; text-indent: 0px; font-family: 宋体; word-wrap: break-word; word-break: break-all; line-height: 15px; padding: 8px 7px; min-height: 12px; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(224, 224, 224);&quot;&gt;雷·阿伦&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1975年7月20日，雷·阿伦出生在&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/189982.htm&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none;&quot;&gt;加利福尼亚州&lt;/a&gt;美熹德（Merced）&lt;span style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;&quot;&gt;[2]&lt;/span&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0;&quot; name=&quot;ref_[2]_20326&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;的&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/subview/3377870/15886993.htm&quot; data-lemmaid=&quot;10309727&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none;&quot;&gt;空军基地&lt;/a&gt;。阿伦的父亲&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/451066.htm&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none;&quot;&gt;沃尔特&lt;/a&gt;是个机场电焊工人，他的母亲叫弗罗拉。他们一共生有5个孩子，雷·阿伦是第3个。&lt;span style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;&quot;&gt;[4]&lt;/span&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0;&quot; name=&quot;ref_[4]_20326&quot;&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;雷·阿伦最早接触的运动项目是足球，因为足球是英国最为流行的运动。尽管瘦弱的阿伦在身材上根本不占优势，但他的运动才华却已展露无遗。除了踢球外，他还经常打棒球，站上打击区的小阿伦甚至能一棒将球挥至数百米远。当他年满八岁后便加入了少儿棒球联盟并成为队中唯一一位能打出全垒打的球员，有不少孩子的家长都鼓励他参加水平更高的少儿联赛。&lt;span style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;&quot;&gt;[5]&lt;/span&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0;&quot; name=&quot;ref_[5]_20326&quot;&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1978年，阿伦就被父母带到了德国，三年后回到美国俄克拉荷马州，然后又去了英国，几年之后再回到加利弗尼亚州。&lt;/p&gt;&lt;p&gt;1985年，10岁的雷·阿伦与全家一起搬到了&lt;a target=&quot;_blank&quot; href=&quot;http://baike.baidu.com/view/269543.htm&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none;&quot;&gt;加利福尼亚&lt;/a&gt;Ed-wards空军基地。基地组织了篮球比赛，很少摸篮球的雷·阿伦竟然投篮神准，场边的父母以及父母的同事们有些惊讶。&lt;span style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;&quot;&gt;[6]&lt;/span&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0;&quot; name=&quot;ref_[6]_20326&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;不久沃尔特又带着妻子弗洛拉和儿子雷·阿伦搬家了，这一次他们去了位于加利福尼亚南部城市Sumter的Shaw空军基地。那时候的雷·阿伦在基地篮球教练菲尔·普利森特的调教下，已经成为了当地小有名气的“未来之星”。最后阿伦父母在达泽尔安家落户。&lt;/p&gt;&lt;p&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;1_2&quot;&gt;&lt;/a&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;sub20326_1_2&quot;&gt;&lt;/a&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;高中经历&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;h3 class=&quot;title-text&quot; style=&quot;margin: 0px; padding: 0px; font-size: 18px; font-weight: 400;&quot;&gt;高中经历&lt;/h3&gt;&lt;p&gt;&lt;a class=&quot;image-link&quot; nslog-type=&quot;9317&quot; href=&quot;http://baike.baidu.com/pic/%E9%9B%B7%C2%B7%E9%98%BF%E4%BC%A6/394332/0/d31b0ef41bd5ad6eb243328a85cb39dbb6fd3c13?fr=lemma&amp;ct=single&quot; target=&quot;_blank&quot; title=&quot;&quot; style=&quot;color: rgb(19, 110, 194); text-decoration: none; display: block; width: 220px; height: 158px;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;https://imgsa.baidu.com/baike/s%3D220/sign=fddfb259b7de9c82a265fe8d5c8080d2/d31b0ef41bd5ad6eb243328a85cb39dbb6fd3c13.jpg&quot; alt=&quot;&quot; style=&quot;border: 0px; display: block; margin: 0px auto; width: 220px; height: 158px;&quot;/&gt; &lt;/a&gt;&lt;/p&gt;&lt;p&gt;1990年，阿伦的身高已超过6尺并进入了南加州山顶高中校队（Hillcrest High School），场均18分的表现让主教练詹姆斯·史密斯对这个孩子赞不绝口，在他的眼里，阿伦不仅充满智慧和自信，在每次处理球时也考虑得非常周全，他的领袖气质像是与生俱来的。&lt;/p&gt;&lt;p&gt;1993年的春天，雷·阿伦的女朋友罗萨里德·拉姆茜怀上了他的孩子。为了让未婚妻和即将降临人世的孩子能过上安稳的生活，阿伦需要尽快接受大学教育并在此之后找一份像样的工作，而最佳的途径便是争取篮球奖学金，因此他在那一年的夏天又进一步对自己的篮球技术进行打磨。随后阿伦帮助高中球队拿下了州冠军头衔，他随后便选择了康涅狄格大学。&lt;span style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;&quot;&gt;[5]&lt;/span&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0;&quot; name=&quot;ref_[5]_20326&quot;&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;1_3&quot;&gt;&lt;/a&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;sub20326_1_3&quot;&gt;&lt;/a&gt;&lt;a style=&quot;color: rgb(19, 110, 194); position: absolute; top: -50px;&quot; name=&quot;大学经历&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;h3 class=&quot;title-text&quot; style=&quot;margin: 0px; padding: 0px; font-size: 18px; font-weight: 400;&quot;&gt;大学经历&lt;/h3&gt;&lt;p&gt;&lt;br/&gt; &lt;/p&gt;&lt;p&gt;&lt;br/&gt; &lt;/p&gt;", 
+            "添加时间": "2017年2月26日 23:28"
+        }
+    ]
+}
